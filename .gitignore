@@ -1,0 +1,7 @@
+# .gitignore to ignore IntelliJ IDE files
+
+# ignore .idea folder
+.idea
+
+# ignore IML files
+*.iml
